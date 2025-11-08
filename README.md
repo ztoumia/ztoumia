@@ -2,8 +2,7 @@
 
 ** Developer • Craftsman • Clean Code Enthusiast **
 
-I'm a backend developer driven by software craftsmanship, clean architecture, and the pursuit of elegant code.  
-I believe great engineering is not only about shipping features — it’s about writing code that feels *alive*, *evolutive*, and *intentional*.
+I'm an indie full-stack developer,  driven by software craftsmanship, clean architecture, and the pursuit of elegant code.  Every project I take on is crafted from the ground up, from planning and designing to solving real-world problems with clean, thoughtful code.
 
 ---
 ### 🧰 Language and tools
