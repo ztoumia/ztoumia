@@ -20,6 +20,7 @@ I believe great engineering is not only about shipping features — it’s about
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
 </p>
+
 ---
 
 ### 🧭 My Developer Vibe
@@ -38,11 +39,13 @@ I believe great engineering is not only about shipping features — it’s about
 
 <details>
   <summary>⚡ Core Principles</summary>
-- **Craft before code** — take time to think, design, and refine  
-- **Keep it clean** — expressive names, small functions, predictable behavior  
-- **Code like you mean it** — deliberate choices, clear intent  
-- **Automate the boring stuff** — pipelines, tests, deployments  
-- **Evolve, don’t rewrite** — software should grow, not restart  
+  <br>
+  - **Craft before code** — take time to think, design, and refine
+  - **Keep it clean** — expressive names, small functions, predictable behavior  
+  - **Code like you mean it** — deliberate choices, clear intent  
+  - **Automate the boring stuff** — pipelines, tests, deployments  
+  - **Evolve, don’t rewrite** — software should grow, not restart  
+  
 </details>
 
 ---
