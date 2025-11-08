@@ -6,21 +6,6 @@ I'm a **Java / Spring expert** driven by **software craftsmanship**, **clean arc
 I believe great engineering is not only about shipping features — it’s about writing code that feels *alive*, *evolutive*, and *intentional*.
 
 ---
-
-### 🧭 My Developer Vibe
-
-- 🧠 I think in **domain models**, not frameworks  
-- 🔁 I live by **TDD, refactoring, and CI/CD**  
-- 🪶 I design **systems that scale gracefully** — both technically and conceptually  
-- ⚙️ I value **readability, simplicity, and expressive APIs**  
-- ☕ I see **Java as a craft**, not just a language  
-
-> “Code is read more often than it is written — so make it a pleasure to read.”
-
----
-
-### 🧠 Tech Stack I Craft With
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" />
@@ -35,16 +20,30 @@ I believe great engineering is not only about shipping features — it’s about
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
 </p>
+---
+
+### 🧭 My Developer Vibe
+
+- 🧠 I think in **domain models**, not frameworks  
+- 🔁 I live by **TDD, refactoring, and CI/CD**  
+- 🪶 I design **systems that scale gracefully** — both technically and conceptually  
+- ⚙️ I value **readability, simplicity, and expressive APIs**  
+- ☕ I see **Java as a craft**, not just a language  
+
+> “Code is read more often than it is written — so make it a pleasure to read.”
+
+
 
 ---
 
-### ⚡ Core Principles
-
+<details>
+  <summary>⚡ Core Principles</summary>
 - **Craft before code** — take time to think, design, and refine  
 - **Keep it clean** — expressive names, small functions, predictable behavior  
 - **Code like you mean it** — deliberate choices, clear intent  
 - **Automate the boring stuff** — pipelines, tests, deployments  
 - **Evolve, don’t rewrite** — software should grow, not restart  
+</details>
 
 ---
 
