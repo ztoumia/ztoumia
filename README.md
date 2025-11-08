@@ -58,6 +58,6 @@ I believe great engineering is not only about shipping features — it’s about
 ### 🌍 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zied-toumia-b6930729)
-[![Email](https://img.shields.io/badge/Email-contact%40example.com-red?logo=gmail&logoColor=white)](mailto:toumiazied+github@gmail.com)
+[![Email](https://img.shields.io/badge/Email-toumiazied+github@gmail.com-red?logo=gmail&logoColor=white)](mailto:toumiazied+github@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-yourusername-black?logo=github)](https://github.com/ztoumia)
 
